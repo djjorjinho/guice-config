@@ -1,0 +1,14 @@
+---
+app:
+  text: value
+  number: 123
+  bool: true
+  list:
+    - 1
+    - 2
+    - 3
+    - 2.3
+    - 123456778976543.324323
+  boolList:
+    - true
+    - false
